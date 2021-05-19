@@ -29,7 +29,7 @@ function Game(props){
   
     return (
         <div>
-            <p className = "container text-center"> 
+            <p className = "container mt-5 text-center"> 
                 
                 <div className = "display-1">
                  {game.name} 
